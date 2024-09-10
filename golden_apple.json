@@ -1,0 +1,2554 @@
+{
+    "data": {
+        "marketingProducts": [],
+        "filters": [],
+        "url": "/parfjumerija",
+        "count": 4406,
+        "countSelectedFilters": 0,
+        "products": [
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 60960,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 60960,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000299221",
+                "mainVariantItemId": "19000267124",
+                "name": "Alula",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Penhaligon's",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000299221/web/696d674d61696e5f32393465353230633864323934333035623135643737363866313936643562328dcbc6a4ce9b83a${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 2,
+                        "values": [
+                            "30",
+                            "100"
+                        ],
+                        "currentUnitValue": "30",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "new",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f6e6577/6c6162656c3634633238366433316131666231663031383937323134318db8eb26197ada0.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000299221-alula",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 34900,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 17450,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 17450,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 34900,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 50
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19760313142",
+                "mainVariantItemId": "19760313142",
+                "name": "Dark Cherry & Amber",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "BANANA REPUBLIC",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19760313142/web/696d674d61696e8dc83c65f13a3c4${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19760313142/web/696d67416464318dc83c65f23e31d${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19760313142/web/696d67416464328dc83c65f30bb8e${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19760313142/web/696d67416464338dc83c65f2f49b2${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "30",
+                            "75",
+                            "150"
+                        ],
+                        "currentUnitValue": "75",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "discount",
+                        "group": "standard",
+                        "backgroundColor": "#FF007E",
+                        "text": "50%",
+                        "textColor": "#FFFFFF",
+                        "textGravity": [
+                            "bottom",
+                            "middle"
+                        ]
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19760313142-dark-cherry-amber",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 73500,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 73500,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "7196300004",
+                "mainVariantItemId": "7196300003",
+                "name": "JOY by Dior",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Dior",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/7196300004/web/696d674d61696e5f62636235363034613230383034643963613632636635323464326633616131368dcc1000f12bfc4${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 2,
+                        "values": [
+                            "50",
+                            "90"
+                        ],
+                        "currentUnitValue": "90",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/7196300004-joy-by-dior",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 20900,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 10450,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 10450,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 20900,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 50
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000214442",
+                "mainVariantItemId": "19000214442",
+                "name": "Th\u00e9 blanc et cr\u00e8me mains",
+                "productType": "\u041f\u043e\u0434\u0430\u0440\u043e\u0447\u043d\u044b\u0439 \u043d\u0430\u0431\u043e\u0440",
+                "type": "Product",
+                "brand": "SOLINOTES",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214442/web/696d674d61696e5f36636433653366653039666334343330623231313234333937646162386363648dc9b4fd0392856${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214442/web/696d67416464315f63323465313130353764633034643130616437666535336362383963336661328dc9b4fd46cc046${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214442/web/696d67416464325f38353338633432646263396434393834613432636338363131386637333839668dc9b4fd7e1ef05${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214442/web/696d67416464335f65346636313833323030353634313737383733346532623864396564373936328dc9b4fdbb4a913${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "2"
+                        ],
+                        "currentUnitValue": "2",
+                        "name": "\u0448\u0442"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "discount",
+                        "group": "standard",
+                        "backgroundColor": "#FF007E",
+                        "text": "50%",
+                        "textColor": "#FFFFFF",
+                        "textGravity": [
+                            "bottom",
+                            "middle"
+                        ]
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000214442-the-blanc-et-creme-mains",
+                "configurable": false,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 68200,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 68200,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000263251",
+                "mainVariantItemId": "19000263252",
+                "name": "Miss Dior",
+                "productType": "\u0414\u0443\u0445\u0438",
+                "type": "Product",
+                "brand": "Dior",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000263251/web/696d674d61696e5f66653266646666383363373034366234613830636662616361636131633265378dcc9c091268a4c${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "35",
+                            "50",
+                            "80"
+                        ],
+                        "currentUnitValue": "50",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "new",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f6e6577/6c6162656c3634633238366433316131666231663031383937323134318db8eb26197ada0.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000263251-miss-dior",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 14050,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 12645,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 12645,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 14050,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "83800100005",
+                "mainVariantItemId": "83800100005",
+                "name": "MON VETIVER ",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "ESSENTIAL PARFUMS PARIS",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100005/web/696d674d61696e5f33663538653863633135356334353765626131383262613338333832343364318dc9a8eee26f0eb${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100005/web/696d67416464315f32346362643166373935376134633939613964323335666231373538393030358dc9a8ef2975bb0${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100005/web/696d67416464325f38643635653161653263386534656539393463313762366132383435353462358dc9a8ef67ea194${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100005/web/696d67416464335f65393638383332616165326334633465613634643965616634353163616266348dc9a8efa982921${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "10"
+                        ],
+                        "currentUnitValue": "10",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "hit",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/83800100005-mon-vetiver",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 53040,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 53040,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000273292",
+                "mainVariantItemId": "19000273291",
+                "name": "SHEER",
+                "productType": "\u0422\u0443\u0430\u043b\u0435\u0442\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "TIFFANY&CO",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000273292/web/696d674d61696e5f35613165303966333766306234373133383864373138363932636165396265668dc8f0bbb22b310${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 2,
+                        "values": [
+                            "30",
+                            "50"
+                        ],
+                        "currentUnitValue": "50",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "BrandIsNew",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f4272616e6449734e6577/6c6162656c3634646235386639383633393863663730326431376330638db9d7dbf7601dc.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000273292-sheer",
+                "configurable": true,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 52100,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 46890,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 46890,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 52100,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000148357",
+                "mainVariantItemId": "19000148357",
+                "name": "Nice bergamote refillable",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430 ",
+                "type": "Product",
+                "brand": "ESSENTIAL PARFUMS PARIS",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148357/web/696d674d61696e8dc83ff93734897${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148357/web/696d67416464318dc83ff9482ca42${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148357/web/696d67416464328dc83ff9395866e${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148357/web/696d67416464338dc83ff9442c713${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "100"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "hit",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000148357-nice-bergamote-by-antoine-maisondieu",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 53430,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 45415,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 45415,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 53430,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 15
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "7274300006",
+                "mainVariantItemId": "7274300007",
+                "name": "WORLD",
+                "productType": "\u0422\u0443\u0430\u043b\u0435\u0442\u043d\u0430\u044f \u0432\u043e\u0434\u0430 ",
+                "type": "Product",
+                "brand": "Kenzo",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/7274300006/web/696d674d61696e8dc83aff0768716${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "30",
+                            "50",
+                            "75"
+                        ],
+                        "currentUnitValue": "75",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/7274300006-kenzo-world",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 49150,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 44235,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 44235,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 49150,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000257262",
+                "mainVariantItemId": "19000257262",
+                "name": "Bois imperial refillable limited edition",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "ESSENTIAL PARFUMS PARIS",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000257262/web/696d674d61696e8dc840fc3ba9074${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000257262/web/696d67416464318dc840fc3c2c6c1${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000257262/web/696d67416464328dc840fc3c29f0f${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000257262/web/696d67416464338dc840fc3dc8c72${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "100"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "hit",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000257262-bois-imperial-refillable-limited-edition",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 43600,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 32700,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 32700,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 43600,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 25
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000188097",
+                "mainVariantItemId": "19000188196",
+                "name": "Paradis nuit",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "BASTILLE",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000188097/web/696d674d61696e8dc84060c54187b${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000188097/web/696d67416464318dc84060d11c9fa${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000188097/web/696d67416464328dc84060c5c1682${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000188097/web/696d67416464338dc84060cc5d338${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 2,
+                        "values": [
+                            "50",
+                            "100"
+                        ],
+                        "currentUnitValue": "50",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "discount",
+                        "group": "standard",
+                        "backgroundColor": "#FF007E",
+                        "text": "25%",
+                        "textColor": "#FFFFFF",
+                        "textGravity": [
+                            "bottom",
+                            "middle"
+                        ]
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000188097-paradis-nuit",
+                "configurable": true,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 60500,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 60500,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "7192300024",
+                "mainVariantItemId": "19760334958",
+                "name": "Dior Homme",
+                "productType": "\u0422\u0443\u0430\u043b\u0435\u0442\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Dior",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/7192300024/web/696d674d61696e5f39306534393433336438396634383236623930616437373666633833613038648dcc07819aa017c${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "50",
+                            "100",
+                            "150"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/7192300024-dior-homme",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 15800,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 12640,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 12640,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 15800,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 20
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000123780",
+                "mainVariantItemId": "19000123780",
+                "name": "\u041b\u0435\u043c\u043e\u043d\u0433\u0440\u0430\u0441\u0441\u043e\u0432\u0430\u044f \u044d\u0439\u0444\u043e\u0440\u0438\u044f",
+                "productType": "\u0410\u0440\u043e\u043c\u0430\u0441\u0432\u0435\u0447\u0430",
+                "type": "Product",
+                "brand": "Svet",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000123780/web/696d674d61696e8dc83aab06bdb32${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "250"
+                        ],
+                        "currentUnitValue": "250",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000123780-lemongrassovaa-ejforia",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 14050,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 12645,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 12645,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 14050,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "83800100001",
+                "mainVariantItemId": "83800100001",
+                "name": "Orange X Santal ",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "ESSENTIAL PARFUMS PARIS",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100001/web/696d674d61696e5f64333030383166363334356334663661383366383266623864386135386135618dc895e3aebe2c1${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100001/web/696d67416464315f66623138303637643663353334616438626137353339633165626537336330318dc895e3e69cb48${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100001/web/696d67416464325f64313531313332326533343534613335383065383037383439616536613032348dc895e45abcbf0${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/83800100001/web/696d67416464335f61626331653663326332623834666261396365303866613434303934623865348dc895e41af327f${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "10"
+                        ],
+                        "currentUnitValue": "10",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "hit",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/83800100001-orange-x-santal",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 93300,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 93300,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000076147",
+                "mainVariantItemId": "7192200041",
+                "name": "miss dior rose'n'roses",
+                "productType": "\u0442\u0443\u0430\u043b\u0435\u0442\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Dior",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000076147/web/696d674d61696e5f30613436623238633830396634356361613432363436313535306164636131368dcc10ee4461356${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 4,
+                        "values": [
+                            "30",
+                            "50",
+                            "100",
+                            "150"
+                        ],
+                        "currentUnitValue": "150",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000076147-miss-dior-rose-n-roses",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 245000,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 208250,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 208250,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 245000,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 15
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "26372100005",
+                "mainVariantItemId": "26372100002",
+                "name": "Oud Wood",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430-\u0441\u043f\u0440\u0435\u0439",
+                "type": "Product",
+                "brand": "Tom Ford",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26372100005/web/696d674d61696e8dc83af4342489e${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26372100005/web/696d67416464318dc83af4333099f${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26372100005/web/696d67416464328dc83af43189900${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26372100005/web/696d67416464338dc83af432131d8${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "30",
+                            "50",
+                            "100"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/26372100005-oud-wood",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 66200,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 66200,
+                        "denominator": 1
+                    },
+                    "old": null,
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 0
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19760315481",
+                "mainVariantItemId": "19760315480",
+                "name": "J'Adore Infinissime",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Dior",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19760315481/web/696d674d61696e5f39613331636638333031393434366234623232363736323263643962633533658dcc07835f17e4d${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 4,
+                        "values": [
+                            "30",
+                            "50",
+                            "100",
+                            "150"
+                        ],
+                        "currentUnitValue": "50",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19760315481-j-adore-infinissime",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 52100,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 46890,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 46890,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 52100,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000148353",
+                "mainVariantItemId": "19000148353",
+                "name": "BOIS IMPERIAL refillable",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430 ",
+                "type": "Product",
+                "brand": "ESSENTIAL PARFUMS PARIS",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148353/web/696d674d61696e8dc83fc52316de8${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148353/web/696d67416464318dc83fc52480f22${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148353/web/696d67416464328dc83fc5236c404${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000148353/web/696d67416464338dc83fc524a17b5${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "100"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "hit",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f686974/6c6162656c3634633238366566316131666231663031383937323134338db8eb27234c6d8.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000148353-bois-imperial-by-quentin-bisch",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 82295,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 74065,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 74065,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 82295,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000244095",
+                "mainVariantItemId": "19000279934",
+                "name": "SCANDAL",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Jean Paul Gaultier",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000244095/web/696d674d61696e5f38383236393262323738316334656132623066313761363466306264626630308dc89337327702a${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "30",
+                            "50",
+                            "80"
+                        ],
+                        "currentUnitValue": "80",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000244095-scandal",
+                "configurable": true,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 343950,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 295797,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 295797,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 343950,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": false,
+                        "useDiscount": false,
+                        "discountPercent": 14
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "26375300002",
+                "mainVariantItemId": "26375300001",
+                "name": "Lost Cherry",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Tom Ford",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26375300002/web/696d674d61696e5f39363262643239336137316634613163393166303038353661636261636163378dcbf64bd05df4b${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26375300002/web/696d67416464315f39633139396264646265356534383961383733353930306563303736313637368dcbf64bfb1bdd3${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26375300002/web/696d67416464325f39643630363162666337323334353364616463343734376665626131303966638dcbf64c25b6ac0${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/26375300002/web/696d67416464335f63346430306561343138633434633030613765333230623664363431313231648dcbf64c4f7e501${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 3,
+                        "values": [
+                            "30",
+                            "50",
+                            "100"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/26375300002-lost-cherry",
+                "configurable": true,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 26250,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 23625,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 23625,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 26250,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000139406",
+                "mainVariantItemId": "19000139406",
+                "name": "Eau de Parfum E-Motion",
+                "productType": "\u041f\u0430\u0440\u0444\u044e\u043c\u0435\u0440\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "DARLING*",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000139406/web/696d674d61696e8dc83f3c772718c${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000139406/web/696d67416464318dc83f3c7957466${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000139406/web/696d67416464328dc83f3c793490b${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000139406/web/696d67416464338dc83f3c79c70cc${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "50"
+                        ],
+                        "currentUnitValue": "50",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "exclusive",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f6578636c7573697665/6c6162656c3634643635626533383633393863663730326431376330618db9a848bfd71f5.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000139406-eau-de-parfum-e-motion",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 5672,
+                        "denominator": 1
+                    },
+                    "loyalty": {
+                        "currency": "KZT",
+                        "amount": 5104,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 5104,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 5672,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 10
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000174608",
+                "mainVariantItemId": "19000174608",
+                "name": "MAGIC EARTH, Tobacco spices",
+                "productType": "\u0410\u0440\u043e\u043c\u0430\u0441\u0432\u0435\u0447\u0430",
+                "type": "Product",
+                "brand": "MAGIC 5 ELEMENTS",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000174608/web/696d674d61696e8dc83fed4f8540d${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000174608/web/696d67416464318dc83fed5387bd6${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000174608/web/696d67416464328dc83fed532590d${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000174608/web/696d67416464338dc83fed4fc1f01${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "100"
+                        ],
+                        "currentUnitValue": "100",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000174608-magic-earth-tobacco-spices",
+                "configurable": false,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 89648,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 35859,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 35859,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 89648,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 60
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000044797",
+                "mainVariantItemId": "19000044797",
+                "name": "SENSO ",
+                "productType": "\u0414\u0438\u0444\u0444\u0443\u0437\u043e\u0440 ",
+                "type": "Product",
+                "brand": "Linari",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000044797/web/696d674d61696e8dc83d62ad370a5${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 1,
+                        "values": [
+                            "500"
+                        ],
+                        "currentUnitValue": "500",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "discount",
+                        "group": "standard",
+                        "backgroundColor": "#FF007E",
+                        "text": "60%",
+                        "textColor": "#FFFFFF",
+                        "textGravity": [
+                            "bottom",
+                            "middle"
+                        ]
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000044797-senso",
+                "configurable": false,
+                "needOnlineConsultation": false
+            },
+            {
+                "price": {
+                    "regular": {
+                        "currency": "KZT",
+                        "amount": 61459,
+                        "denominator": 1
+                    },
+                    "discount": {
+                        "currency": "KZT",
+                        "amount": 46094,
+                        "denominator": 1
+                    },
+                    "actual": {
+                        "currency": "KZT",
+                        "amount": 46094,
+                        "denominator": 1
+                    },
+                    "old": {
+                        "currency": "KZT",
+                        "amount": 61459,
+                        "denominator": 1
+                    },
+                    "viewOptions": {
+                        "priceFrom": false,
+                        "crossPrice": true,
+                        "useDiscount": true,
+                        "discountPercent": 25
+                    },
+                    "hasLoyalty": false
+                },
+                "itemId": "19000214316",
+                "mainVariantItemId": "19000214314",
+                "name": "For men eau de toilette",
+                "productType": "\u0422\u0443\u0430\u043b\u0435\u0442\u043d\u0430\u044f \u0432\u043e\u0434\u0430",
+                "type": "Product",
+                "brand": "Coach",
+                "imageUrls": [
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214316/web/696d674d61696e5f38373736623264643636326234623839383963316336373465643566396137348dcd0d9953f1efe${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214316/web/696d67416464315f30666236303662396535366334346264393635663734646465326439613838668dcd0d997fecee4${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214316/web/696d67416464325f33303931333964373561653234636435613063373061663962353265363561398dcd0d99a55dee3${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    },
+                    {
+                        "url": "https://pcdn.goldapple.ru/p/p/19000214316/web/696d67416464335f63343233373932346133383934353238623861376564643738393463616237388dcd0d99c979217${screen}.${format}",
+                        "format": [
+                            "webp",
+                            "jpg"
+                        ],
+                        "screen": [
+                            "fullhd"
+                        ]
+                    }
+                ],
+                "favourite": false,
+                "attributes": {
+                    "units": {
+                        "count": 4,
+                        "values": [
+                            "40",
+                            "60",
+                            "100",
+                            "200"
+                        ],
+                        "currentUnitValue": "200",
+                        "name": "\u043c\u043b"
+                    },
+                    "colors": {
+                        "count": 0,
+                        "values": [],
+                        "name": ""
+                    }
+                },
+                "labels": [
+                    {
+                        "id": "Fast del",
+                        "group": "standard",
+                        "resource": {
+                            "resourceUrl": {
+                                "url": "https://pcdn.goldapple.ru/p/sl/5374616e646172645f466173742064656c/6c6162656c3633643133313839336330343263353230636561346462638dafed9dd294ecd.png",
+                                "format": [],
+                                "screen": []
+                            },
+                            "resourceType": "image"
+                        }
+                    },
+                    {
+                        "id": "discount",
+                        "group": "standard",
+                        "backgroundColor": "#FF007E",
+                        "text": "25%",
+                        "textColor": "#FFFFFF",
+                        "textGravity": [
+                            "bottom",
+                            "middle"
+                        ]
+                    }
+                ],
+                "isAdult": false,
+                "inStock": true,
+                "url": "/19000214316-for-men-eau-de-toilette",
+                "configurable": true,
+                "needOnlineConsultation": false,
+                "couponResponse": {
+                    "code": "\u041e\u0421\u0415\u041d\u042c20",
+                    "text": "\u0441\u043a\u0438\u0434\u043a\u0430",
+                    "type": "percent",
+                    "discountPercent": 20
+                }
+            }
+        ]
+    }
+}
