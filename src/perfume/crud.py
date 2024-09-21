@@ -1,6 +1,5 @@
 from src.perfume.model import PerfumeInDB
 from db import collection
-from typing import List, Dict, Optional
 from bson import ObjectId
 
 async def create_perfume(perfume: PerfumeInDB):
@@ -10,7 +9,7 @@ async def create_perfume(perfume: PerfumeInDB):
 async def get_perfume(perfume_id: str):
     document = await collection.find_one({"_id": ObjectId(perfume_id)})
     if document:
-        document['_id'] = str(document['_id'])  # Преобразуем ObjectId в строку
+        document['_id'] = str(document['_id'])
     return document
 
 async def get_page_of_perfumes(page: int, page_size: int):

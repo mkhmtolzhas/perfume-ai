@@ -9,13 +9,17 @@ class LLM:
 
     @staticmethod
     async def search_in_pinecone(query: str):
-        query = INDEX.query(await LLM.get_embeddings(query), top_k=3, include_metadata=True)
+        query = INDEX.query(await LLM.get_embeddings(query), top_k=10, include_metadata=True)
         return query
 
     @staticmethod
     async def generate_response(prompt: str):
         search_results = await LLM.search_in_pinecone(prompt)
+
         context = search_results
+        sys_prompt = """
+TODO: Add a system prompt here
+"""
 
         stream = CLIENT.chat.completions.create(
             model="gpt-3.5-turbo",
