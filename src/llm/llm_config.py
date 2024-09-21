@@ -3,7 +3,7 @@ from openai import OpenAI
 from config import PINECONE_API_KEY, OPENAI_API_KEY
 
 PC = Pinecone(api_key=PINECONE_API_KEY)
-INDEX = PC.Index("perfume")
+INDEX = PC.Index("perfumeai")
 CLIENT = OpenAI(
     api_key=OPENAI_API_KEY
 )
