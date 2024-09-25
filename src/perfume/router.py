@@ -1,4 +1,4 @@
-from src.perfume.crud import create_perfume, get_perfume, get_page_of_perfumes, update_perfume, delete_perfume
+from src.perfume.crud import create_perfume, get_perfume, get_page_of_perfumes, update_perfume, delete_perfume, search_perfume_by_name
 from src.perfume.model import PerfumeInDB
 from fastapi import APIRouter, HTTPException
 
@@ -16,7 +16,7 @@ async def get_perfume_route(perfume_id: str):
     raise HTTPException(status_code=404, detail="Perfume not found")
 
 @router.get("/", response_description="Get all perfumes")
-async def get_perfumes(page: int = 0, page_size: int = 10):
+async def get_perfumes(page: int = 0, page_size: int = 9):
     return await get_page_of_perfumes(page, page_size)
 
 @router.put("/{perfume_id}", response_description="Update a perfume")
@@ -27,4 +27,6 @@ async def update_perfume_route(perfume_id: str, perfume: PerfumeInDB):
 async def delete_perfume_route(perfume_id: str):
     return await delete_perfume(perfume_id)
 
-
+@router.get("/search/{name}", response_description="Search a perfume by name")
+async def search_perfume(name: str):
+    return await search_perfume_by_name(name)

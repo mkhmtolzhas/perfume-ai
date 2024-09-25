@@ -32,3 +32,9 @@ async def delete_perfume(perfume_id: str):
     return result
 
 
+async def search_perfume_by_name(name: str):
+    cursor = collection.find({"brand": {"$regex": name, "$options": "i"}})
+    documents = await cursor.to_list(length=None) # None - чтобы получить все документы
+    for document in documents:
+        document['_id'] = str(document['_id'])  # Преобразование ObjectId в строку
+    return documents
