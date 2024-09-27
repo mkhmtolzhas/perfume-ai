@@ -10,4 +10,4 @@ COPY . .
 
 EXPOSE 8080
 
-CMD gunicorn main:app --workers 3 --worker-class uvicorn.workers.UvicornWorker --bind=0.0.0.0:${PORT:-8080} 
+CMD gunicorn main:app --workers 8 --worker-class uvicorn.workers.UvicornWorker --bind=0.0.0.0:${PORT:-8080} 
