@@ -1,4 +1,4 @@
-from fastapi import APIRouter
+from fastapi import APIRouter, HTTPException
 from src.llm.llm import LLM
 from src.llm.model import Prompt
 
@@ -9,9 +9,4 @@ async def generate_response(prompt: Prompt):
     try:
         return await LLM.generate_response(prompt.prompt)
     except Exception as e:
-        return {
-            "error": str(e),
-            "message": "Ошибка во время генерации ответа",
-            "status": 500
-        }
-    
+        raise HTTPException(status_code=404, detail=str(e))
