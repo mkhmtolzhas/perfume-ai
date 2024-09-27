@@ -10,7 +10,7 @@ class LLM:
 
     @staticmethod
     async def search_in_pinecone(query: str):
-        query = INDEX.query(await LLM.get_embeddings(query), top_k=10, include_metadata=True)
+        query = INDEX.query(await LLM.get_embeddings(query), top_k=7, include_metadata=True)
         return query
 
     @staticmethod
